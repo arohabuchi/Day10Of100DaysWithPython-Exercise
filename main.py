@@ -61,4 +61,16 @@ def inputNumber(msg, err_msg=None):
     pass
 uerN = inputNumber('Input a number :')
 print(uerN)
+
+#file mode in python
+# r => read only
+# r+ => read and write
+# w => write
+# a => append
+# rb => read binary
+# rb+ => read and write binary
+# w+ => write and readline
+# wb => write binary
+# ab => append binary
+
 #there are more to be done with file
